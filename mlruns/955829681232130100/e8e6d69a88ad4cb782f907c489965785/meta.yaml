@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/mzlwm/OneDrive/Documents/GitHub/mlflow/mlruns/955829681232130100/e8e6d69a88ad4cb782f907c489965785/artifacts
+end_time: 1745853549384
+entry_point_name: ''
+experiment_id: '955829681232130100'
+lifecycle_stage: active
+run_id: e8e6d69a88ad4cb782f907c489965785
+run_name: auspicious-foal-908
+run_uuid: e8e6d69a88ad4cb782f907c489965785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745853547991
+status: 3
+tags: []
+user_id: mozaloom

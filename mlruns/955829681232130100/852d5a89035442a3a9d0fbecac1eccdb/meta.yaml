@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/mzlwm/OneDrive/Documents/GitHub/mlflow/mlruns/955829681232130100/852d5a89035442a3a9d0fbecac1eccdb/artifacts
+end_time: 1745853016730
+entry_point_name: ''
+experiment_id: '955829681232130100'
+lifecycle_stage: active
+run_id: 852d5a89035442a3a9d0fbecac1eccdb
+run_name: gaudy-hound-318
+run_uuid: 852d5a89035442a3a9d0fbecac1eccdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745853015599
+status: 3
+tags: []
+user_id: mozaloom

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0cf3188e6d3f4a05afc75306945f1649/artifacts
+end_time: 1745852026086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cf3188e6d3f4a05afc75306945f1649
+run_name: ambitious-lynx-541
+run_uuid: 0cf3188e6d3f4a05afc75306945f1649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745852025695
+status: 3
+tags: []
+user_id: mozaloom

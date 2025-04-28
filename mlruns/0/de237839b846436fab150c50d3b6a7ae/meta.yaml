@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/de237839b846436fab150c50d3b6a7ae/artifacts
+end_time: 1745851920872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de237839b846436fab150c50d3b6a7ae
+run_name: intrigued-crow-978
+run_uuid: de237839b846436fab150c50d3b6a7ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745851920474
+status: 3
+tags: []
+user_id: mozaloom

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/mzlwm/OneDrive/Documents/GitHub/mlflow/mlruns/955829681232130100/83ddb24cf6734208a4c9f30fbfdcc51e/artifacts
+end_time: 1745853345618
+entry_point_name: ''
+experiment_id: '955829681232130100'
+lifecycle_stage: active
+run_id: 83ddb24cf6734208a4c9f30fbfdcc51e
+run_name: vaunted-cod-572
+run_uuid: 83ddb24cf6734208a4c9f30fbfdcc51e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745853344412
+status: 3
+tags: []
+user_id: mozaloom

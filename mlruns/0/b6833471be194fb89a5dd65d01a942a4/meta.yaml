@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b6833471be194fb89a5dd65d01a942a4/artifacts
+end_time: 1745851818852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6833471be194fb89a5dd65d01a942a4
+run_name: caring-mole-133
+run_uuid: b6833471be194fb89a5dd65d01a942a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745851818425
+status: 3
+tags: []
+user_id: mozaloom

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/mzlwm/OneDrive/Documents/GitHub/mlflow/mlruns/955829681232130100/09bb404235f2415c9a16eb97c4f99c5b/artifacts
+end_time: 1745853222931
+entry_point_name: ''
+experiment_id: '955829681232130100'
+lifecycle_stage: active
+run_id: 09bb404235f2415c9a16eb97c4f99c5b
+run_name: clean-rook-436
+run_uuid: 09bb404235f2415c9a16eb97c4f99c5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745853221910
+status: 3
+tags: []
+user_id: mozaloom
